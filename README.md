@@ -36,4 +36,4 @@ git clone https://github.com/aron-tn/SMTP-Mail.acess-Cracker-Checker
 cd SMTP-Mail.acess-Cracker-Checker
 smtp.py
 ```
-<h5>(c)Aron-tn<h5/>
+<h5>Projects by Aron-tn<h5/>
